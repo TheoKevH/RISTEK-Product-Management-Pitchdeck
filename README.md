@@ -5,4 +5,4 @@ Memorialize my submission for RISTEK's PM SIG in 2024
 
 Hopefully, sometime in the future, I can look back to this repo and think about how far I've come
 
-May this be the start of something great 
+Everything in this deck is my intellectual property. You are not permitted to use/copy/download/modify my deck
